@@ -2,7 +2,7 @@ import sys
 from collections import Counter
 import load_dictionary
 
-dict_file = load_dictionary.load('project_dict.txt')
+dict_file = load_dictionary.load('dictionary files/project_dict.txt')
 # ensure "a" and "I" (both lowercase) are included. Apparently, sometimes they don't get included from dictionary files. 
 dict_file.append('a')
 dict_file.append('i')
