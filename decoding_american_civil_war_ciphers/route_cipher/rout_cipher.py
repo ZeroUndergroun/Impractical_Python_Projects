@@ -1,4 +1,4 @@
-ciphertext = "16 12 8 4 0 1 5 9 13 17 18 14 10 6 2 3 7 11 15 19"
+ciphertext = "PURE OF TWENTY THIS IF YOU I FRIGGIN THIS POPPYCOCK AND MESSAGE DOLLARS OWE CAN READ YOU REST IS COCAINE"
 
 #split elements into words, not letters
 cipherlist = list(ciphertext.split())
